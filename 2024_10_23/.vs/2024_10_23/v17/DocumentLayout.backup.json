@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VS_Project\\2024_10_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{082D55B1-F713-4618-BF75-96631115DE94}|2024_10_23.vcxproj|F:\\VS_Project\\2024_10_23\\newfile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{082D55B1-F713-4618-BF75-96631115DE94}|2024_10_23.vcxproj|solutionrelative:newfile.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newfile.c",
+              "DocumentMoniker": "F:\\VS_Project\\2024_10_23\\newfile.c",
+              "RelativeDocumentMoniker": "newfile.c",
+              "ToolTip": "F:\\VS_Project\\2024_10_23\\newfile.c",
+              "RelativeToolTip": "newfile.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-23T14:52:15.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
