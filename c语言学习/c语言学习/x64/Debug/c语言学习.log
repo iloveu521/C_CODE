@@ -1,3 +1,0 @@
-﻿  switch.cpp
-F:\VS_Project\c语言学习\switch.cpp(392,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  c语言学习.vcxproj -> F:\VS_Project\c语言学习\x64\Debug\c语言学习.exe
